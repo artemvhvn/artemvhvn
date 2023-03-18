@@ -18,3 +18,9 @@ Here are some ideas to get you started:
 ### My name is Artem Vakhviiainen
 
 [LinkedIn](https://www.linkedin.com/in/artemvhvn/)
+
+### My repositories
+| Repository              | Description           
+| :-------------------- | :--------------------- |
+| [Yandex.Practicum projects](https://github.com/artemvhvn/yandex_practicum_projects) |  | 
+| [MindSet test task](https://github.com/artemvhvn/mindset_test) |  | 
