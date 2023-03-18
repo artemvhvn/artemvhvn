@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **artemvhvn/artemvhvn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Artem Vakhviiainen
+### My name is Artem Vakhviiainen
+
+[https://www.linkedin.com/in/artemvhvn/](linkedin)
