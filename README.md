@@ -17,5 +17,4 @@ Here are some ideas to get you started:
 
 ### My name is Artem Vakhviiainen
 
-[![image](https://user-images.githubusercontent.com/116809153/226099199-605cea6e-08e5-461e-88ae-f59f5f11bceb.png)
-]([linkedin](https://www.linkedin.com/in/artemvhvn/))
+[LinkedIn](https://www.linkedin.com/in/artemvhvn/)
