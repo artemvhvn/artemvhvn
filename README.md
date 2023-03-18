@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 ### My repositories
 | Repository              | Description           
 | :-------------------- | :--------------------- |
-| [Yandex.Practicum projects](https://github.com/artemvhvn/yandex_practicum_projects) |  | 
-| [MindSet test task](https://github.com/artemvhvn/mindset_test) |  | 
+| [Yandex.Practicum projects](https://github.com/artemvhvn/yandex_practicum_projects) | Data analysis training projects on Python | 
+| [MindSet test task](https://github.com/artemvhvn/mindset_test) | Test task from MindSet company | 
