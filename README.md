@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### My name is Artem Vakhviiainen
 
-[LinkedIn](https://www.linkedin.com/in/artemvhvn/)
 
 ### My repositories
 | Repository              | Description           
